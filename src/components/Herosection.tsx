@@ -1,6 +1,5 @@
 
 "use client";
-"use client";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
 import Link from "next/link"
 import { Button } from "./ui/moving-border"

@@ -9,12 +9,11 @@ import { WhyChooseUs } from "@/components/WhyChooseUS";
 
 export default function Home() {
   return (
-    <><h1 className="text-2xl text-center">helloo</h1>
+    <>
     <HeroSection />
     <FeaturedCourses/>
     <WhyChooseUs/>
     <TestimonialCards/>
-    <UpcomingWebinars/>
     <Instructors/>
     <Footer/>
     </>
